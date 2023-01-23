@@ -17,7 +17,7 @@ Roomy Mobile was created using React Native. A lot of thought was put into it's 
 
 ##### Onboarding Flow
 
-When designing the onboarding flow, we tried to mimic the style that Apple uses in many of its apps and services. Specific inspiration was taken from Apple One and Apple ______. Below are the screenshots of the pages we took inspiration from:
+When designing the onboarding flow, we tried to mimic the style that Apple uses in many of its apps and services. Specific inspiration was taken from Apple One and Apple's office application: Keynote. Below are the screenshots of the pages we took inspiration from:
 
 
 Here is what the Roomy Onboarding flow looks like. We wanted it to be quick and easy to understand for our users.
