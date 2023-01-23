@@ -1,5 +1,4 @@
-# Roomy
-Roommate, Better!
+# Roomy: Roommate, Better!
 
 Roomy is an application developed by Nicholas Orlowsky and Cory Chang with some design from Carson Hammock. 
 
@@ -13,20 +12,37 @@ In the future, Roomy has the following features planned:
 ## Roomy Mobile
 [GitHub Repository](https://github.com/nickorlow/roomy-mobile)
 
-Roomy Mobile was created using React Native. A lot of thought was put into it's design to ensure that it was user friendly. 
+Roomy Mobile was created using React Native and Typescript. It offered us an opprotunity to use these technologies in a real world environment and to learn more about both technologies.
 
-##### Onboarding Flow
+A lot of thought was put into it's design to ensure that it was user friendly. We tried to take design cues from many other apps, specifically Snapchat and a myraid of apps created by Apple. We designed it in both a light and a dark theme. 
+
+### Onboarding Flow
 
 When designing the onboarding flow, we tried to mimic the style that Apple uses in many of its apps and services. Specific inspiration was taken from Apple One and Apple's office application: Keynote. Below are the screenshots of the pages we took inspiration from:
-
+<div>
+<img src="https://raw.githubusercontent.com/nickorlow/roomy/main/images/IMG_4102.PNG" width=200>
+<img src="https://raw.githubusercontent.com/nickorlow/roomy/main/images/IMG_3948.PNG" width=200>
+</div>
 
 Here is what the Roomy Onboarding flow looks like. We wanted it to be quick and easy to understand for our users.
-[TODO: IMAGES HERE]
+<div>
+<img src="https://raw.githubusercontent.com/nickorlow/roomy/main/images/IMG_5006.PNG" width=150>
+<img src="https://raw.githubusercontent.com/nickorlow/roomy/main/images/IMG_5007.PNG" width=150>
+<img src="https://raw.githubusercontent.com/nickorlow/roomy/main/images/IMG_5008.PNG" width=150>
+<img src="https://raw.githubusercontent.com/nickorlow/roomy/main/images/IMG_5009.PNG" width=150>
+<img src="https://raw.githubusercontent.com/nickorlow/roomy/main/images/IMG_5010.PNG" width=150>
+<img src="https://raw.githubusercontent.com/nickorlow/roomy/main/images/IMG_4241.PNG" width=150>
+</div>
 
-##### Main Pages
+### Main Pages
 
 The main pages of Roomy utilize Emojis to attempt to convey information in a simple manner. 
-[TODO: IMAGES HERE]
+<div>
+<img src="https://raw.githubusercontent.com/nickorlow/roomy/main/images/IMG_5011.PNG" width=150>
+<img src="https://raw.githubusercontent.com/nickorlow/roomy/main/images/IMG_5012.PNG" width=150>
+<img src="https://raw.githubusercontent.com/nickorlow/roomy/main/images/IMG_5013.PNG" width=150>
+<img src="https://raw.githubusercontent.com/nickorlow/roomy/main/images/IMG_4431.PNG" width=150>
+</div>
 
 
 ## Roomy API (Backend)
@@ -49,5 +65,7 @@ I analyzed multiple approaches to this to end up with the choice I made:
 - (Chosen approach) Use Wi-Fi traffic to detect nearby devices and report who is home by the active devices on the network
 
 Below is a screenshot of the main page of the application and the details page for a specific roommate:
-
-[TODO: IMAGE HERE]
+<div>
+<img src="https://raw.githubusercontent.com/nickorlow/roomy/main/images/IMG_1581.PNG" width=200>
+<img src="https://raw.githubusercontent.com/nickorlow/roomy/main/images/IMG_1583.PNG" width=200>
+</div>
